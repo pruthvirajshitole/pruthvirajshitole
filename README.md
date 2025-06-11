@@ -1,16 +1,91 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Pruthviraj Shitole</h1>
+<h3 align="center">🚀 Data Analyst | AI & ML Enthusiast | Python & SQL Developer</h3>
 
-<!--
-**pruthvirajshitole/pruthvirajshitole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:pruthvirajgshitole@gmail.com" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pruthviraj-shitole" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+Hello! I'm Pruthviraj, an enthusiastic and self-driven engineering student passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**. I love solving real-world problems using data and delivering insights through engaging dashboards and data storytelling. My academic background and internship experience have equipped me with a strong foundation in programming, statistical analysis, and visualization tools.
+
+
+---
+
+## 🚀 Skills & Technologies
+
+### 👨‍💻 Programming & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📊 Data Analytics & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge)
+
+### 🧠 Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 📂 Projects
+
+### 🛍️ E-Commerce Data Analysis  
+> **Tech Stack:** Python, Pandas, MySQL, Power BI  
+🔹 Cleaned and transformed large ecommerce datasets  
+🔹 Analyzed customer behavior, sales trends, and top products  
+🔹 Built interactive Power BI dashboards for stakeholder insights
+
+### ✉️ Spam Email Classification using ML  
+> **Tech Stack:** Python, Pandas, Scikit-learn, NLP  
+🔸 Developed spam classifier using machine learning  
+🔸 Used NLP techniques to preprocess and vectorize text data  
+🔸 Evaluated models using precision, recall, and accuracy
+
+---
+
+## 🎓 Education
+
+📘 **B.Tech – AI & ML**  
+Sanjay Ghodawat University, Kolhapur  
+2021 – 2025 | CGPA: 7.0/10
+
+📗 **HSC – Science**  
+Alva’s Pre-University College, Moodbidre  
+2019 – 2021 | Score: 97.33%
+
+📕 **SSLC**  
+Alva’s Kannada Medium High School  
+2018 – 2019 | Score: 96.48%
+
+---
+
+## 💼 Experience
+
+### 💻 Data Science Intern – Codenera  
+📍 Pune (Onsite)  
+✅ Worked on real datasets for cleaning, analysis, and visualization  
+✅ Applied concepts of EDA, KPI extraction, and storytelling with Power BI  
+
+---
+
+## 📬 Contact
+
+- 📧 **Email:** pruthvirajgshitole@gmail.com  
+- 🌐 **LinkedIn:** [linkedin.com/in/pruthviraj-shitole](https://www.linkedin.com/in/pruthviraj-shitole)
+
+---
+
+<p align="center">✨ Thanks for visiting my profile! Let’s connect and build something amazing. 🚀</p>
