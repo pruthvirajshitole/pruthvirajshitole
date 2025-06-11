@@ -11,7 +11,14 @@
   </a>
 </p>
 
-[📄 View My Resume](./my_resume.pdf)
+---
+
+## 📬 Contact
+
+- 📧 **Email:** pruthvirajgshitole@gmail.com  
+- 🌐 **LinkedIn:** [linkedin.com/in/pruthviraj-shitole](https://www.linkedin.com/in/pruthviraj-shitole)
+- 📄 **View My Resume:** [my_resume.pdf](./my_resume.pdf)
+
 
 ---
 
@@ -84,11 +91,6 @@ Alva’s Kannada Medium High School
 
 ---
 
-## 📬 Contact
 
-- 📧 **Email:** pruthvirajgshitole@gmail.com  
-- 🌐 **LinkedIn:** [linkedin.com/in/pruthviraj-shitole](https://www.linkedin.com/in/pruthviraj-shitole)
-
----
 
 <p align="center">✨ Thanks for visiting my profile! Let’s connect and build something amazing. 🚀</p>
