@@ -3,11 +3,11 @@
 
 <p align="center">
   <a href="mailto:pruthvirajgshitole@gmail.com" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail"/>
+    <img height="40" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pruthviraj-shitole" target="_blank">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+    <img height="40" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
 </p>
 
