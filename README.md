@@ -13,19 +13,17 @@
 
 ---
 
+## 👋 About Me
+
+Hello! I'm Pruthviraj, an enthusiastic and self-driven engineering student passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**. I love solving real-world problems using data and delivering insights through engaging dashboards and data storytelling. My academic background and internship experience have equipped me with a strong foundation in programming, statistical analysis, and visualization tools.
+
+---
+
 ## 📬 Contact
 
 - 📧 **Email:** pruthvirajgshitole@gmail.com  
 - 🌐 **LinkedIn:** [linkedin.com/in/pruthviraj-shitole](https://www.linkedin.com/in/pruthviraj-shitole)
 - 📄 **View My Resume:** [my_resume.pdf](./my_resume.pdf)
-
-
----
-
-## 👋 About Me
-
-Hello! I'm Pruthviraj, an enthusiastic and self-driven engineering student passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**. I love solving real-world problems using data and delivering insights through engaging dashboards and data storytelling. My academic background and internship experience have equipped me with a strong foundation in programming, statistical analysis, and visualization tools.
-
 
 ---
 
