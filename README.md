@@ -11,6 +11,8 @@
   </a>
 </p>
 
+[📄 View My Resume](./my_resume.pdf)
+
 ---
 
 ## 👋 About Me
