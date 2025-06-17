@@ -1,16 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Pruthviraj Shitole</h1>
 <h3 align="center">🚀 Data Analyst | AI & ML Enthusiast | Python & SQL Developer</h3>
 
-<p align="center">
-  <a href="mailto:pruthvirajgshitole@gmail.com" target="_blank">
-    <img height="40" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pruthviraj-shitole" target="_blank">
-    <img height="40" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
-  </a>
-</p>
-
 ---
 
 ## 👋 About Me
@@ -27,40 +17,51 @@ Hello! I'm Pruthviraj, an enthusiastic and self-driven engineering student passi
 
 ---
 
-## 🚀 Skills & Technologies
+## 🧰 Skills & Tools
 
-### 👨‍💻 Programming & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 💻 Programming & Data Handling  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 Data Analytics & Visualization
+### 📊 Data Visualization & Tools  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 📚 Libraries  
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge)
-
-### 🧠 Tools and IDE
-
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-006699?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3B8BBA?style=for-the-badge)
 
 ---
 
 ## 📂 Projects
 
-### 🛍️ E-Commerce Data Analysis  
-> **Tech Stack:** Python, Pandas, MySQL, Power BI  
-🔹 Cleaned and transformed large ecommerce datasets  
-🔹 Analyzed customer behavior, sales trends, and top products  
-🔹 Built interactive Power BI dashboards for stakeholder insights
+### 🎧 Spotify Data Analysis | MySQL  
+- Designed a normalized schema and wrote 15+ advanced SQL queries using **CTEs**, **subqueries**, and **window functions**.
+- Extracted insights such as:
+  - 📌 Total comments on licensed tracks  
+  - 🎶 Top streamed tracks  
+  - 💃 Albums with highest average danceability  
+  - 🏆 Top 3 most-viewed tracks per artist using `DENSE_RANK()`
+- Optimized slow queries using `EXPLAIN` and indexing, improving execution time by **95%+**.
+- Documented query plans, performance benchmarks, and visuals in the Github Repository.
 
-### ✉️ Spam Email Classification using ML  
-> **Tech Stack:** Python, Pandas, Scikit-learn, NLP  
-🔸 Developed spam classifier using machine learning  
-🔸 Used NLP techniques to preprocess and vectorize text data  
-🔸 Evaluated models using precision, recall, and accuracy
+---
+
+### 🛒 E-Commerce Data Analysis | Python, MySQL, Power BI  
+- Analyzed customer behavior, sales trends, and product performance using structured e-commerce data.
+- Queried and aggregated large datasets using **MySQL** to extract KPIs such as revenue, top-selling products, and customer value.
+- Used **Pandas** and **NumPy** for data cleaning, transformation, and statistical analysis.
+- Built interactive dashboards with **Power BI** to visualize:
+  - 💰 Sales performance  
+  - 🌍 Regional trends  
+  - 👤 Customer demographics
+- Delivered insights to inform pricing, marketing, and inventory strategies.
+
 
 ---
 
