@@ -69,7 +69,7 @@ Hello! I'm Pruthviraj, an enthusiastic and self-driven engineering student passi
 
 📘 **B.Tech – AI & ML**  
 Sanjay Ghodawat University, Kolhapur  
-2021 – 2025 | CGPA: 7.0/10
+2021 – 2025 | CGPA: 7.23/10
 
 📗 **HSC – Science**  
 Alva’s Pre-University College, Moodbidre  
@@ -83,7 +83,7 @@ Alva’s Kannada Medium High School
 
 ## 💼 Experience
 
-### 💻 Data Science Intern – Codenera  
+### 💻 Data Analytics Intern – Codenera  
 📍 Pune (Onsite)  
 ✅ Worked on real datasets for cleaning, analysis, and visualization  
 ✅ Applied concepts of EDA, KPI extraction, and storytelling with Power BI  
