@@ -52,6 +52,28 @@ Hello! I'm Pruthviraj, an enthusiastic and self-driven engineering student passi
 
 ---
 
+### 📧 Spam Email Classification using Machine Learning | Python, scikit-learn, Streamlit
+
+- Developed a real-time email spam classifier using NLP and deployed it via Streamlit.  
+- The steps includes :
+  - Data cleaning
+  - EDA
+  - Text Preprocessing
+  - Model building
+  - Evaluation
+  - Prediction
+  - Website
+  - Deploy
+- ✅ Text cleaning, tokenization, and TF-IDF vectorization  
+- 🔍 Trained and evaluated models using accuracy and precision metrics  
+- 📈 Serialized model/vectorizer for fast inference  
+- ⚙️ Built an interactive Streamlit app for live email classification  
+- 📊 Derived insights from text features to improve classification accuracy  
+- A complete NLP-based solution aimed at spam detection and user-friendly deployment.  
+
+
+---
+
 ### 🛒 E-Commerce Data Analysis | Python, MySQL, Power BI  
 - Analyzed customer behavior, sales trends, and product performance using structured e-commerce data.
 - Queried and aggregated large datasets using **MySQL** to extract KPIs such as revenue, top-selling products, and customer value.
