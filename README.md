@@ -52,7 +52,7 @@ Hello! I'm Pruthviraj, an enthusiastic and self-driven engineering student passi
 
 ---
 
-### 📧 Spam Email Classification using Machine Learning | Python, scikit-learn, Streamlit
+### 📧 Intelligent Email Classification using Machine Learning | Python, scikit-learn, Streamlit
 
 - Developed a real-time email spam classifier using NLP and deployed it via Streamlit.  
 - The steps includes :
