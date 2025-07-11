@@ -76,14 +76,15 @@ Hello! I'm Pruthviraj, an enthusiastic and self-driven engineering student passi
 
 ### 🛒 Customer Purchase Behavior & Sentiment Analysis | Python, MySQL, Power BI  
 
-- ✅ Designed a normalized MySQL schema and loaded structured e-commerce data.
-- 🔍 Queried purchase trends, top-performing products/customers, and revenue breakdowns.
-- 📈 Performed sentiment analysis on customer reviews using TextBlob and labeled them as Positive, Neutral, or Negative.
-- 🧾 Visualized revenue trends, sentiment heatmaps, and top customer segments.
-- 📊 Built a fully interactive Power BI dashboard with filters for country, category, and date.
-  - Revenue and order trends
-  - Top-performing categories & customers
-  - Country-wise and category-wise sentiment heatmaps
+- Designed a normalized MySQL schema and loaded structured e-commerce data.
+- Queried purchase trends, top-performing products/customers, and revenue breakdowns.
+- Performed sentiment analysis on customer reviews using TextBlob and labeled them as Positive, Neutral, or Negative.
+- Visualized revenue trends, sentiment heatmaps, and top customer segments.
+- Built a fully interactive Power BI dashboard with filters for country, category, and date.
+  - 💰 Revenue and order trends
+  - 🏆 Top-performing categories & customers
+  - 🌍 Country-wise and category-wise sentiment heatmaps
+  - 🧮 Category-wise Sentiment Heatmaps
 - Delivered a business-ready Power BI dashboard for stakeholder use.
 - An end-to-end analytics project showcasing how data engineering, sentiment analysis, and BI tools can unlock customer intelligence in e-commerce.
 
