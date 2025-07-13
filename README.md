@@ -13,8 +13,7 @@ Hello! I'm Pruthviraj, an enthusiastic and self-driven engineering student passi
 
 - 📧 **Email:** pruthvirajgshitole@gmail.com  
 - 🌐 **LinkedIn:** [linkedin.com/in/pruthviraj-shitole](https://www.linkedin.com/in/pruthviraj-shitole)
-- 📄 **View My Resume:** [my_resume.pdf](CV%20Resume.pdf)
-
+- **📄 View My Resume:** [My_resume.pdf](https://github.com/pruthvirajshitole/pruthvirajshitole/blob/main/My_resume.pdf)
 
 ---
 
