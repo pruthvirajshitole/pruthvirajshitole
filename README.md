@@ -15,6 +15,7 @@ Hello! I'm Pruthviraj, an enthusiastic and self-driven engineering student passi
 - 🌐 **LinkedIn:** [linkedin.com/in/pruthviraj-shitole](https://www.linkedin.com/in/pruthviraj-shitole)
 - 📄 **View My Resume:** [my_resume.pdf](CV%20Resume.pdf)
 
+
 ---
 
 ## 🧰 Skills & Tools
